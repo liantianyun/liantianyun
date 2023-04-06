@@ -1,4 +1,15 @@
-* Hi, my name is Terry from China. My Chinese name is 练天运
-* I graduated from university in 2020 and have been engaged in front-end development since then
-* I am interested in all the technologies in the front-end field, welcome to communicate with me
-* I am currently working in NetEase as an outsourcing employee
+## 关于我
+
+你好，我叫练天运。
+
+生于1998年，今年24岁，2020年7月毕业于华南理工大学广州学院软件工程专业，目前是一名前端开发工程师，以外包人员的身份就职于网易。
+
+我热爱阅读与写作，会写日记、散文、阅读思考、技术博客等内容。因此，这个[仓库](https://github.com/liantianyun/Blog)记录我写下的一切文字。
+
+见字如面，相信通过我的文字，你应该可以了解我的方方面面，包括但不限于我的个人思想、技术能力、学习态度等等。
+
+谢谢并欢迎你对我的了解、期望你能从中获益。
+
+## 关于工作
+
+目前，外包工作可以给我提供一份不错的薪酬，但它并不是一个可以长远从事的工作，因此，在这份工作期间我持续保持对于更好的工作机会的关注，如果您在通过对我的了解后愿意给我提供一份位于广州或支持远程工作的更好的工作的面试机会，请随时联系我。
